@@ -132,5 +132,5 @@ else
   title "${a102:-Installation Successful}"
   print_center -ama "${a103:-  To show menu type: \nudp\n}"
   msg -bar
-  time_reboot 5
+  
 fi
