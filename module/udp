@@ -933,6 +933,7 @@ menu_udp_request() {
   7) limiter ;;
   8) add_exclude ;;
   9) quit_exclude ;;
+ 10) cek ;;
   0) menu_main ;;
   esac
 }
