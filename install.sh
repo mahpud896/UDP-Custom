@@ -23,6 +23,7 @@ sudo apt install -y wget
 sudo apt install -y curl
 sudo apt install -y dos2unix
 sudo apt install -y neofetch
+sudo apt install -y cron
 
 source <(curl -sSL 'https://raw.githubusercontent.com/mahpud896/UDP-Custom/main/module/module')
 
