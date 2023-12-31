@@ -93,6 +93,11 @@ else
   cp /etc/limiter.sh /etc/UDPCustom
   chmod +x /etc/limiter.sh
   chmod +x /etc/UDPCustom
+
+    wget -O /etc/cek.sh 'https://raw.githubusercontent.com/mahpud896/UDP-Custom/main/module/cek.sh'
+  cp /etc/cek.sh /etc/UDPCustom
+  chmod +x /etc/cek.sh
+  chmod +x /etc/UDPCustom
   
   # [+udpgw+]
   wget -O /etc/udpgw 'https://raw.githubusercontent.com/mahpud896/UDP-Custom/main/module/udpgw'
