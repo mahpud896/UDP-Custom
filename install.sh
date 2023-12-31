@@ -71,6 +71,8 @@ else
   # rm -rf /usr/bin/udp-request &>/dev/null
   rm -rf /etc/limiter.sh &>/dev/null
   rm -rf /etc/UDPCustom/limiter.sh &>/dev/null
+   rm -rf /etc/cek.sh &>/dev/null
+  rm -rf /etc/UDPCustom/cek.sh &>/dev/null
   rm -rf /etc/UDPCustom/module &>/dev/null
   rm -rf /usr/bin/udp &>/dev/null
   rm -rf /etc/UDPCustom/udpgw.service &>/dev/null
